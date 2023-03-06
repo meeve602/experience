@@ -11,4 +11,5 @@ Virtuoso:
   Design variables（V）不会被覆写，将被设为定值，电源(VDC)中的magnitude(交流量幅值)需要被设定
   查看单个线的output(相位角phase 幅值log20 magnitude )需要到schematic中单击线右键在下属plot中查看（ADE面板不可用？）
   正弦交流电中magnitude为标量（AC仿真），amplitude为矢量幅值(0到几)(tran仿真)
-  
+  math:
+  当值相同时，变化率(导数)相同会使接下来的值相同，多重导数拟合函数(泰勒展开式) 人为调节值到某个值到定值，再调节其变化率使信号稳定。
