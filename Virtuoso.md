@@ -2,7 +2,7 @@ Virtuoso:
   model name 必须为 N_50(使用analoglib和0.5um.lib.scs进行验证时)
   MDE环境仿真时OUTPUT点击instance端口输出为电流current(纵坐标)，点击线为电压voltage(纵坐标) (横坐标为parameter)
   Pin中in out不是变量，可应通过vdc接上in pin去给in赋值，变量只能设在完整的instance器件的输入值内
-  DC某个点点电压，直流  (静态工作点，数值变化引起的电压变化，画图为点电压连成线)
+  DC某个点点电压，直流  (静态工作点，数值变化引起的电压变化，画图为点电压连成线)(直流电压没有时间常数，所有值都是直接算出)
   tran某个瞬态电压，交流+直流  (DC趋向于点取值，tran用于画变化曲线)
   AC微变电压(不可求)，交流  求比值(放大倍数AV，电阻RO,RI)(微变等效)
   DC:
