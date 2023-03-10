@@ -22,3 +22,7 @@ Virtuoso:
   BJT阈值为前提，顺序电压 MOS阈值为前提，减去阈值相比电压
   Lable:
   lable相同则连线，gnd线lable应为gnd! ,vss线线lable应为vss! gnd!一定为0V vss!值一定不变
+  ADE XL:
+  CORNER AANALYSIS
+  ADE GXL:
+  OPTIMATTON
