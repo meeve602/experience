@@ -26,6 +26,8 @@ Virtuoso:
   CORNER AANALYSIS
   ADE GXL:
   OPTIMATTON
+  opamp&inp
+  opamp电压传递器，inp电流复制器
   
   Math:
     导数意义：单个固定电阻，U/I可以求出其电阻，为一比例，且其斜线过0点 
