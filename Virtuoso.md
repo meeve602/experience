@@ -26,8 +26,10 @@ Virtuoso:
   CORNER AANALYSIS
   ADE GXL:
   OPTIMATTON
-  opamp&inp
+  opamp&inp:
   opamp电压传递器，inp电流复制器
+  OPAMP4:
+  四输入运放，在内部实现电流相加，在传到输出端，电流I+与I+对相加，I-与I-对相加
   
   Math:
     导数意义：单个固定电阻，U/I可以求出其电阻，为一比例，且其斜线过0点 
